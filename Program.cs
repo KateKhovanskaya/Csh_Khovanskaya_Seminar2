@@ -1,4 +1,4 @@
-﻿// Задача 1.
+﻿//Задача 1.
 Console.WriteLine("Задача 1. Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.");
 Console.WriteLine("Введите трехзначное число");
 int num11=int.Parse(Console.ReadLine()!);
@@ -23,3 +23,15 @@ if(num21>=0 && num21<100){Console.WriteLine("Третьей цифры нет");
 if(num21>=100 && num21<1000){Console.WriteLine($"Третья цифра числа {num21%10}");}
 if(num21>=1000 && num21<10000){Console.WriteLine($"Третья цифра числа {num21%100/10}");}
 if(num21>=10000 && num21<100000){Console.WriteLine($"Третья цифра числа {num21%1000/100}");}
+
+//Задача 3.
+Console.WriteLine("Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным");
+Console.WriteLine("Введите номер дня недели от 1 до 7");
+int num31=int.Parse(Console.ReadLine()!);
+while(num31>7 || num31<1)
+{
+   Console.WriteLine("Введен некорректный номер дня недели. введите число от 1 до 7");
+   num31=int.Parse(Console.ReadLine()!); 
+}
+if(num31==6 || num31==7){Console.WriteLine("Это выходной");}
+else {Console.WriteLine("Это не выходной");}
