@@ -1,0 +1,15 @@
+D:\GeekBrains\Уроки\C#_Khovanskaya_DZ_Seminar2\bin\Debug\net6.0\C#_Khovanskaya_DZ_Seminar2.exe
+D:\GeekBrains\Уроки\C#_Khovanskaya_DZ_Seminar2\bin\Debug\net6.0\C#_Khovanskaya_DZ_Seminar2.deps.json
+D:\GeekBrains\Уроки\C#_Khovanskaya_DZ_Seminar2\bin\Debug\net6.0\C#_Khovanskaya_DZ_Seminar2.runtimeconfig.json
+D:\GeekBrains\Уроки\C#_Khovanskaya_DZ_Seminar2\bin\Debug\net6.0\C#_Khovanskaya_DZ_Seminar2.dll
+D:\GeekBrains\Уроки\C#_Khovanskaya_DZ_Seminar2\bin\Debug\net6.0\C#_Khovanskaya_DZ_Seminar2.pdb
+D:\GeekBrains\Уроки\C#_Khovanskaya_DZ_Seminar2\obj\Debug\net6.0\C#_Khovanskaya_DZ_Seminar2.csproj.AssemblyReference.cache
+D:\GeekBrains\Уроки\C#_Khovanskaya_DZ_Seminar2\obj\Debug\net6.0\C#_Khovanskaya_DZ_Seminar2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Уроки\C#_Khovanskaya_DZ_Seminar2\obj\Debug\net6.0\C#_Khovanskaya_DZ_Seminar2.AssemblyInfoInputs.cache
+D:\GeekBrains\Уроки\C#_Khovanskaya_DZ_Seminar2\obj\Debug\net6.0\C#_Khovanskaya_DZ_Seminar2.AssemblyInfo.cs
+D:\GeekBrains\Уроки\C#_Khovanskaya_DZ_Seminar2\obj\Debug\net6.0\C#_Khovanskaya_DZ_Seminar2.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Уроки\C#_Khovanskaya_DZ_Seminar2\obj\Debug\net6.0\C#_Khovanskaya_DZ_Seminar2.dll
+D:\GeekBrains\Уроки\C#_Khovanskaya_DZ_Seminar2\obj\Debug\net6.0\refint\C#_Khovanskaya_DZ_Seminar2.dll
+D:\GeekBrains\Уроки\C#_Khovanskaya_DZ_Seminar2\obj\Debug\net6.0\C#_Khovanskaya_DZ_Seminar2.pdb
+D:\GeekBrains\Уроки\C#_Khovanskaya_DZ_Seminar2\obj\Debug\net6.0\C#_Khovanskaya_DZ_Seminar2.genruntimeconfig.cache
+D:\GeekBrains\Уроки\C#_Khovanskaya_DZ_Seminar2\obj\Debug\net6.0\ref\C#_Khovanskaya_DZ_Seminar2.dll
